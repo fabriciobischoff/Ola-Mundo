@@ -6,3 +6,5 @@
  Essa linha eu adicionei diretamente no site! QUE IMPRESSIONANTE!
 
  Essa é uma segunda atualização
+ 
+Teste para Clonar uma atualização para o repositório local
