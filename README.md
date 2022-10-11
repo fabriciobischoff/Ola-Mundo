@@ -8,3 +8,4 @@
  Essa é uma segunda atualização
  
 Teste para Clonar uma atualização para o repositório local
+Teste para realizar um commit.
